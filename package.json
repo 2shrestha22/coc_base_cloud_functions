@@ -1,0 +1,14 @@
+{
+  "name": "coc-base-cloud-function",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "2shrestha22",
+  "license": "ISC",
+  "dependencies": {
+    "node-appwrite": "^2.1.0"
+  },
+  "description": "Cloud Function for COC Base App"
+}
